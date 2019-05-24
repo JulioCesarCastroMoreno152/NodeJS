@@ -1,0 +1,20 @@
+{
+  "name": "nodefilescastrocesar",
+  "version": "10.15.3",
+  "description": "Simple Web App",
+  "main": "Filesystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioCesarCastroMoreno152/NodeJs.git"
+  },
+  "author": "Julio Cesar Castro Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioCesarCastroMoreno152/NodeJs/issues"
+  },
+  "homepage": "https://github.com/JulioCesarCastroMoreno152/NodeJs#readme"
+}
